@@ -8,7 +8,7 @@ aliases:
 playbook: Slide
 ---
 # Description
-Patra Bowmore is a fallen noble from #Iruvia. After escaping the revolution in #Iruvia she went to the Doskvol to lay low and not expose her presence. She like to frequent #SingerBathHouse as a way to relieve stress.
+Patra Bowmore is a fallen noble of #Iruvian origin. After escaping the revolution in Iruvia she went to the Doskvol to lay low and not expose her presence. She like to frequent #SingerBathHouse as a way to relieve stress.
 
 # Friends and Rivals
 ### Friends

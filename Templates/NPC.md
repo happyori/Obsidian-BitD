@@ -1,7 +1,10 @@
 ---
 tags:
   - NPC
-age:
+age: 
+friends-with: 
+enemies-with: 
+profession:
 ---
 # Description
 ### Looks

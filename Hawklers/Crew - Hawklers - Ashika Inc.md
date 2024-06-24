@@ -14,5 +14,5 @@ Within the bounds of the Crow's Foot. At the top of the abandoned watch tower ov
 ```dataview
 LIST
 FROM #AshikaNotes
-SORT file.frontmatter.created-at ASC
+SORT file.frontmatter.played-at ASC
 ```
