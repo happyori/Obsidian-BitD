@@ -1,10 +1,8 @@
 ---
-tags:
+tags: 
 created-at: 
+score-type:
 ---
-### Summary Bullet points
-- 
-
 <%* 
 tp.hooks.on_all_templates_executed(async () => {
 	const file = tp.file.find_tfile(tp.file.path(true))
@@ -15,4 +13,19 @@ tp.hooks.on_all_templates_executed(async () => {
 	})
 })
 %>
-<% await tp.file.rename(`Notes on ${tp.date.now("MMM Do YYYY")}`) %>
+### Description
+
+
+### Contacts
+
+
+## Obstacles
+
+
+### Reward
+
+
+### Details | Notes
+
+
+### Reasons

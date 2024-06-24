@@ -11,8 +11,12 @@
             "id": "23a2ba4fd37681f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md"
+              }
             }
           }
         ]
@@ -135,16 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8d75ce774e6d85cb",
+  "active": "23a2ba4fd37681f7",
   "lastOpenFiles": [
+    "Hawklers/Templates/Score Idea Template.md",
+    "Hawklers/Scores/Ideas/Finding a supplier.md",
     "Hawklers/Templates/Notes for crew in Blades.md",
     "Hawklers/Notes/Notes on Jun 20th 2024.md",
+    "Hawklers/Scores/Ideas",
+    "Hawklers/Scores",
+    "Hawklers/Crew - Hawklers - Akishi Inc.md",
     "Hawklers/Templates",
     "Hawklers/Notes",
-    "Hawklers/Crew - Hawklers - Akishi Inc.md",
     "Hawklers",
     "Welcome.md"
   ]

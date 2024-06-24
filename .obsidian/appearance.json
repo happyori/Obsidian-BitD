@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Shimmering Focus"
+  "cssTheme": "Border",
+  "accentColor": "#7130e8",
+  "theme": "moonstone"
 }
