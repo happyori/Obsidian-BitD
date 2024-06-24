@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "705cb82f0156cb2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f417700f00ba879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23a2ba4fd37681f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86ec61fca725e39",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4626fe05427e0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d75ce774e6d85cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9675d824f961ac19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51d0c1cb9d7749a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b04d84e919c61816",
+    "type": "split",
+    "children": [
+      {
+        "id": "af13f1a9511548a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79934e6ec1cb8dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06ae19a7a15cc557",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29b2a3c2fedfdb5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "741b70bc7d458ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d75ce774e6d85cb",
+  "lastOpenFiles": [
+    "Hawklers/Templates/Notes for crew in Blades.md",
+    "Hawklers/Notes/Notes on Jun 20th 2024.md",
+    "Hawklers/Templates",
+    "Hawklers/Notes",
+    "Hawklers/Crew - Hawklers - Akishi Inc.md",
+    "Hawklers",
+    "Welcome.md"
+  ]
+}
