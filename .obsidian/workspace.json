@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "file": "Hawklers/PCs/Bert Wagonski.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70e817e4852e33f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hawklers/PCs/Bert Wagonski.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "file": "Hawklers/PCs/Bert Wagonski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "file": "Hawklers/PCs/Bert Wagonski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md"
+                "file": "Hawklers/PCs/Bert Wagonski.md"
               }
             }
           }
@@ -150,16 +163,32 @@
   },
   "active": "23a2ba4fd37681f7",
   "lastOpenFiles": [
-    "Hawklers/Templates/Score Idea Template.md",
-    "Hawklers/Scores/Ideas/Finding a supplier.md",
-    "Hawklers/Templates/Notes for crew in Blades.md",
+    "Hawklers/PCs/Patra Bowmore.md",
+    "Hawklers/PCs/Bert Wagonski.md",
+    "Hawklers/NPCs/Laroze Helker.md",
+    "Hawklers/NPCs/Salia Comber.md",
+    "Hawklers/NPCs/Stev Vale.md",
+    "Hawklers/NPCs/Riven Keel.md",
+    "Hawklers/NPCs/Harker Clermont.md",
+    "Hawklers/NPCs/Emeline Skora.md",
+    "Hawklers/NPCs/Bryl.md",
+    "Hawklers/Crew - Hawklers - Ashika Inc.md",
     "Hawklers/Notes/Notes on Jun 20th 2024.md",
+    "2024-06-20.md",
+    "Templates/NPC.md",
+    "Hawklers/PCs",
+    "Templates/Score Idea Template.md",
+    "Templates/Notes for crew in Blades.md",
+    "Scripts/select_from_tags.js~",
+    "Scripts/select_from_tags.js",
+    "Scripts/update_frontmatter.js~",
+    "Scripts/update_frontmatter.js",
+    "Scripts",
+    "Hawklers/Scores/Ideas/Finding a supplier.md",
+    "Hawklers/NPCs",
     "Hawklers/Scores/Ideas",
     "Hawklers/Scores",
-    "Hawklers/Crew - Hawklers - Akishi Inc.md",
-    "Hawklers/Templates",
-    "Hawklers/Notes",
-    "Hawklers",
+    "Templates",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1719259291356,
+      "title": "Ashika Inc",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:Hawklers  -path:Hawklers/Scores  ",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag:#NPC  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "tag:#AshikaNotes  ",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          },
+          {
+            "query": "tag:#PC  ",
+            "color": {
+              "a": 1,
+              "rgb": 11392604
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1,
+        "close": true
+      }
+    }
+  ]
+}

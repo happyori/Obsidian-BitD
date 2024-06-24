@@ -23,6 +23,9 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "score-type": "multitext"
+    "score-type": "multitext",
+    "age": "number",
+    "friends-with": "multitext",
+    "enemies-with": "multitext"
   }
 }

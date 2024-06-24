@@ -1,5 +1,6 @@
 ---
-tags: AkishiNotes
+tags:
+  - AshikaNotes
 created-at: 2024-06-20
 ---
 ### Summary Bullet points
