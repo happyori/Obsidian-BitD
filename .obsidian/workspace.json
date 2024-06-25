@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Intercept Contraband.md",
+                "file": "Hawklers/NPCs/Marlane.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Contact  ",
+                "query": "tag:Unaffiliated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,11 +172,13 @@
   },
   "active": "9c7ed30532355305",
   "lastOpenFiles": [
-    "Hawklers/NPCs/Bryl.md",
+    "Hawklers/NPCs/Marlane.md",
     "Hawklers/Scores/Ideas/Finding a supplier.md",
+    "[[Marlane.md",
+    "Hawklers/Scores/Ideas/Intercept Contraband.md",
+    "Hawklers/NPCs/Bryl.md",
     "Hawklers/NPCs/Salia Comber.md",
     "Hawklers/NPCs/Riven Keel.md",
-    "Hawklers/Scores/Ideas/Intercept Contraband.md",
     "Hawklers/Crew - Hawklers - Ashika Inc.md",
     "Templates/NPC.md",
     "Hawklers/NPCs/Stev Vale.md",
