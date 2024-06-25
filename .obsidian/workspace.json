@@ -6,6 +6,7 @@
       {
         "id": "8f417700f00ba879",
         "type": "tabs",
+        "dimension": 44.09851301115242,
         "children": [
           {
             "id": "23a2ba4fd37681f7",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "Hawklers/Scores/Ideas/Intercept Contraband.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,6 +22,25 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "e0db80e22e70542d",
+        "type": "tabs",
+        "dimension": 55.90148698884758,
+        "children": [
+          {
+            "id": "9c7ed30532355305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Contact  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/NPC.md"
+                "file": "Hawklers/Scores/Ideas/Finding a supplier.md"
               }
             }
           }
@@ -149,23 +170,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23a2ba4fd37681f7",
+  "active": "9c7ed30532355305",
   "lastOpenFiles": [
-    "Hawklers/NPCs/Stev Vale.md",
-    "Templates/NPC.md",
-    "Templates/Score Idea Template.md",
+    "Hawklers/NPCs/Bryl.md",
     "Hawklers/Scores/Ideas/Finding a supplier.md",
-    "Templates/Notes for crew in Blades.md",
+    "Hawklers/NPCs/Salia Comber.md",
+    "Hawklers/NPCs/Riven Keel.md",
+    "Hawklers/Scores/Ideas/Intercept Contraband.md",
     "Hawklers/Crew - Hawklers - Ashika Inc.md",
+    "Templates/NPC.md",
+    "Hawklers/NPCs/Stev Vale.md",
+    "Templates/Score Idea Template.md",
+    "Templates/Notes for crew in Blades.md",
     "Hawklers/Notes/Notes on Jun 20th 2024.md",
     "Hawklers/PCs/Bert Wagonski.md",
     "Hawklers/NPCs/Laroze Helker.md",
     "Hawklers/PCs/Patra Bowmore.md",
-    "Hawklers/NPCs/Salia Comber.md",
-    "Hawklers/NPCs/Riven Keel.md",
     "Hawklers/NPCs/Harker Clermont.md",
     "Hawklers/NPCs/Emeline Skora.md",
-    "Hawklers/NPCs/Bryl.md",
     "2024-06-20.md",
     "Hawklers/PCs",
     "Scripts/select_from_tags.js~",

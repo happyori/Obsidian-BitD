@@ -1,7 +1,6 @@
 ---
 tags:
   - NPC
-  - Contact
   - Akorosi
   - CrowsGang
 age: 34
