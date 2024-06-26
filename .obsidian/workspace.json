@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "file": "Hawklers/NPCs/Marlane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md",
+                "file": "Hawklers/NPCs/Marlane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hawklers/Scores/Ideas/Finding a supplier.md"
+                "file": "Hawklers/NPCs/Marlane.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c7ed30532355305",
+  "active": "23a2ba4fd37681f7",
   "lastOpenFiles": [
-    "Hawklers/NPCs/Marlane.md",
     "Hawklers/Scores/Ideas/Finding a supplier.md",
+    "Hawklers/NPCs/Marlane.md",
     "[[Marlane.md",
     "Hawklers/Scores/Ideas/Intercept Contraband.md",
     "Hawklers/NPCs/Bryl.md",
